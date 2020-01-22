@@ -2079,6 +2079,8 @@
 
 		<point attribute="obstacle">
 			<select value="30" t="time" v="stop"/>
+			<select value="60" t="time" v="subway stop"/>
+			<select value="150" t="time" v="train stop"/>
 			<select value="150" t="time" v="change"/>
 			<select value="150" t="time" v="boarding"/>
 		</point>
