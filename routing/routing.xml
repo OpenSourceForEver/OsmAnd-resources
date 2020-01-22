@@ -2078,7 +2078,7 @@
 
 
 		<point attribute="obstacle">
-			<select value="30" t="time" v="stop"/>
+			<select value="1" t="time" v="stop"/>
 			<select value="150" t="time" v="change"/>
 			<select value="150" t="time" v="boarding"/>
 		</point>
